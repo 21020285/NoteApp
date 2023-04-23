@@ -63,4 +63,7 @@ public class Event {
     public void setEvent_location(String event_location) {
         this.event_location = event_location;
     }
+
+    public void setEvent_id(int eventId) { this.event_id = eventId;
+    }
 }
